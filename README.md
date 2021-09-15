@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @codewitheki
+- 👀 I’m interested in Computer Parts
+- 🌱 I’m currently learning Ai/Ml
